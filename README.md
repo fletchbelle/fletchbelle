@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fletchbelle
 - 👀 I’m interested in Python & Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Groovy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fletchbelle@gmail.com
 
